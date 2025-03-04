@@ -1,6 +1,6 @@
 # Створення веб-додатка для дослідницького аналізу даних за допомогою Python та Streamlit
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pygwalker-interactive-exploratory-data-analysis.streamlit.app)
 
 
 ## Вступ

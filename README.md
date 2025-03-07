@@ -189,6 +189,10 @@ if uploaded_file is not None:
 - Quick intro to PyGWalker, turn your dataframe into an interactive UI for data visualization, https://www.youtube.com/watch?v=m9xszlY8Z8A
 - A Tableau Alternative in Python for Data Analysis (in Streamlit & Jupyter) | PyGWalker Tutorial, https://www.youtube.com/watch?v=Ynt7Etci1KU
 - Create Tableau like Interactive Dashboards in Python for Free!, https://www.youtube.com/watch?v=6qymrlkkUG4
+- PyGWalker - Python Data Visualization tool / Streamlit Integration, https://www.youtube.com/watch?v=ogyxjkYRgPE&t=18s
+- Exploring Data and Sharing Findings with Pygwalker and Streamlit, https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit
+- Turn pygwalker into web app, https://docs.kanaries.net/pygwalker/turn-pygwalker-into-webapp
+
 
 
 
